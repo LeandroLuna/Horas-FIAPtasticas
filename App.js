@@ -4,8 +4,12 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <Text>Ojetivo do seu app: registrar o horário de entrada e saída, ou também controlar o tempo de almoço, pausas e outras informações.</Text>
+      <Text>
+        **Conectar um banco de dados para armazenar as informações do app. Utilizar um banco de dados na nuvem, como o Amazon RDS, ou um banco de
+        dados local, como o MySQL.**
+      </Text>
+      <StatusBar style='auto' />
     </View>
   );
 }
