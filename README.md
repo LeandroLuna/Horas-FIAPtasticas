@@ -28,7 +28,7 @@ Install dependencies
 
 Set up the database connection
 
-You will need to set up a connection to the Amazon RDS database in order to use the app.
+> You will need to set up a connection to the Amazon RDS database in order to use the app.
 
 Run the app
 
